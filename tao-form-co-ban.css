@@ -1,0 +1,11 @@
+h2{
+    color: white;
+    background-color: orangered;
+}
+#a1,#a2, #a3{
+    color: blue;
+}
+#h1,#h2,#h3,#h4,#h5,#h6,#h7{
+    color: orangered;
+    margin-top: auto;
+}
